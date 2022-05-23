@@ -1,0 +1,24 @@
+{
+	"products": [{
+			"img": "imgs\\banana.png",
+			"name": "Banana",
+			"price": "3.99₪"
+		},
+		{
+			"img": "imgs\\watermelon.png",
+			"name": "Watermelon",
+			"price": "9.99₪"
+		},
+		{
+			"img": "imgs\\Orange.png",
+			"name": "Orange",
+			"price": "4.99₪"
+		},
+		{
+			"img": "imgs\\apple.png",
+			"name": "Apple",
+			"price": "2.99₪"
+		}
+
+	]
+}
